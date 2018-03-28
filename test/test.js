@@ -24,7 +24,7 @@ describe('👀 screenshots are correct', function() {
     if (!fs.existsSync(`${testDir}/wide`)) fs.mkdirSync(`${testDir}/wide`);
     if (!fs.existsSync(`${testDir}/narrow`)) fs.mkdirSync(`${testDir}/narrow`);
 
-    console.log('ok');
+    //console.log('ok');
   });
 
   // This is ran when the suite is done. Stop your server here.
