@@ -1,7 +1,7 @@
 {
   "devDependencies": {
-    "esversion": 6,
     "chai": "^4.1.2",
+    "esversion": 6,
     "mocha": "^5.0.5",
     "pixelmatch": "^4.0.2",
     "polyserve": "^0.23.0",
